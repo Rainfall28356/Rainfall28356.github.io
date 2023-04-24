@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-24T11:07:45.739Z</updated>
+  <updated>2023-04-24T11:34:06.839Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,30 +21,7 @@
     <link href="http://example.com/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/"/>
     <id>http://example.com/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/</id>
     <published>2023-04-24T09:12:52.000Z</published>
-    <updated>2023-04-24T11:07:45.739Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;从 &lt;a href=&quot;https://space.bilibili.com/230105574&quot;&gt;DOC_CAN&lt;/a&gt; 的教学视频中学习到了傅里叶变换的完整推导方法，受益匪浅，故作此梳理和分享：&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="韬光逐薮，含章未曜" scheme="http://example.com/categories/%E9%9F%AC%E5%85%89%E9%80%90%E8%96%AE%EF%BC%8C%E5%90%AB%E7%AB%A0%E6%9C%AA%E6%9B%9C/"/>
-    
-    <category term="数学" scheme="http://example.com/categories/%E9%9F%AC%E5%85%89%E9%80%90%E8%96%AE%EF%BC%8C%E5%90%AB%E7%AB%A0%E6%9C%AA%E6%9B%9C/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="数学" scheme="http://example.com/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="理论" scheme="http://example.com/tags/%E7%90%86%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Fourier Series and Fourier Transform</title>
-    <link href="http://example.com/2023/04/24/Furi/"/>
-    <id>http://example.com/2023/04/24/Furi/</id>
-    <published>2023-04-24T09:12:52.000Z</published>
-    <updated>2023-04-24T11:19:58.451Z</updated>
+    <updated>2023-04-24T11:34:06.839Z</updated>
     
     
     <summary type="html">&lt;p&gt;从 &lt;a href=&quot;https://space.bilibili.com/230105574&quot;&gt;DOC_CAN&lt;/a&gt; 的教学视频中学习到了傅里叶变换的完整推导方法，受益匪浅，故作此梳理和分享：&lt;/p&gt;</summary>
