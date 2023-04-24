@@ -226,4 +226,23 @@
         <tag>情感</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Fourier Series and Fourier Transform</title>
+    <url>/2023/04/24/Furi/</url>
+    <content><![CDATA[<p>从 <a href="https://space.bilibili.com/230105574">DOC_CAN</a> 的教学视频中学习到了傅里叶变换的完整推导方法，受益匪浅，故作此梳理和分享：</p>
+<span id="more"></span>
+<h1 id="1-三角函数的正交性"><a class="markdownIt-Anchor" href="#1-三角函数的正交性">#</a> 1 三角函数的正交性</h1>
+<p>在解析几何中，定义两个向量正交可用点积（内积）来表示：</p>
+<center>**a**·**b** = 0<center>
+将正交的概念推广到连续函数上，在区间x∈\[a,b\]，如果函数f(x)和g(x)正交，则$$\int_a^bf(x)g(x)dx = 0$$
+定义三角函数系：$${1,sinx,cosx,sin2x,cos2x,...,sinnx,cosnx,...}$$]]></content>
+      <categories>
+        <category>韬光逐薮，含章未曜</category>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>理论</tag>
+      </tags>
+  </entry>
 </search>
