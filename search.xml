@@ -12,6 +12,52 @@
       </categories>
   </entry>
   <entry>
+    <title>Picture</title>
+    <url>/2022/08/12/Picture/</url>
+    <content><![CDATA[<p>这是一个图片测试<br>
+😄<br>
+<img src="https://pic.imgdb.cn/item/630ad18416f2c2beb11aabfe.jpg" alt="Ori"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Fourier Series and Fourier Transform</title>
+    <url>/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/</url>
+    <content><![CDATA[<p>从 <a href="https://space.bilibili.com/230105574">DOC_CAN</a> 的教学视频中学习到了傅里叶变换的完整推导方法，受益匪浅，故作此梳理和分享：</p>
+<span id="more"></span>
+<h1 id="1-三角函数的正交性"><a class="markdownIt-Anchor" href="#1-三角函数的正交性">#</a> 1 三角函数的正交性</h1>
+<p>在解析几何中，定义两个向量正交可用点积（内积）来表示：$$<strong>a</strong>·<strong>b</strong> = 0$$</p>
+<p>将正交的概念推广到连续函数上，在区间 x∈[a,b]，如果函数 f (x) 和 g (x) 正交，则 $$\int_a^bf (x) g (x) dx = 0$$</p>
+<p>定义三角函数系：$${1,sinx,cosx,sin2x,cos2x,…,sinnx,cosnx,…}$$</p>
+]]></content>
+      <categories>
+        <category>韬光逐薮，含章未曜</category>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>理论</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/07/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start">#</a> Quick Start</h2>
+<h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post">#</a> Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server">#</a> Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files">#</a> Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>GitHub+Hexo 个人网站搭建教程</title>
     <url>/2022/08/31/GitHub-Hexo-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>网络时代，拥有一个属于自己的网页，并用以自由发挥、记录生活，一定是许多程序猿的美好愿景。本人也在大二暑假开始尝试实现这一愿景，并已经初见成效。</p>
@@ -102,36 +148,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/07/23/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start">#</a> Quick Start</h2>
-<h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post">#</a> Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server">#</a> Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files">#</a> Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>test_my_site</title>
     <url>/2022/07/23/test-my-site/</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Picture</title>
-    <url>/2022/08/12/Picture/</url>
-    <content><![CDATA[<p>这是一个图片测试<br>
-😄<br>
-<img src="https://pic.imgdb.cn/item/630ad18416f2c2beb11aabfe.jpg" alt="Ori"></p>
-]]></content>
   </entry>
   <entry>
     <title>Sapiens： A Brief History of Humankind (Yuval Noah Harari)</title>
@@ -185,25 +204,6 @@
       <tags>
         <tag>历史</tag>
         <tag>社会</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Fourier Series and Fourier Transform</title>
-    <url>/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/</url>
-    <content><![CDATA[<p>从 <a href="https://space.bilibili.com/230105574">DOC_CAN</a> 的教学视频中学习到了傅里叶变换的完整推导方法，受益匪浅，故作此梳理和分享：</p>
-<span id="more"></span>
-<h1 id="1-三角函数的正交性"><a class="markdownIt-Anchor" href="#1-三角函数的正交性">#</a> 1 三角函数的正交性</h1>
-<p>在解析几何中，定义两个向量正交可用点积（内积）来表示：$$<strong>a</strong>·<strong>b</strong> = 0$$</p>
-<p>将正交的概念推广到连续函数上，在区间 x∈[a,b]，如果函数 f (x) 和 g (x) 正交，则 $$\int_a^bf (x) g (x) dx = 0$$</p>
-<p>定义三角函数系：$${1,sinx,cosx,sin2x,cos2x,…,sinnx,cosnx,…}$$</p>
-]]></content>
-      <categories>
-        <category>韬光逐薮，含章未曜</category>
-        <category>数学</category>
-      </categories>
-      <tags>
-        <tag>数学</tag>
-        <tag>理论</tag>
       </tags>
   </entry>
   <entry>
