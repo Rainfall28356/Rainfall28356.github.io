@@ -114,7 +114,8 @@
     <url>/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/</url>
     <content><![CDATA[<p>从 <a
 href="https://space.bilibili.com/230105574">DOC_CAN</a>的教学视频中学习到了傅里叶变换的完整推导方法，真可谓酣畅淋漓，令我受益匪浅。故在此梳理、分享：
-<span id="more"></span> # 1 三角函数的正交性</p>
+<span id="more"></span></p>
+<h1 id="三角函数的正交性">1 三角函数的正交性</h1>
 <p>在解析几何中，定义两个向量正交可用点积（内积）来表示：<span
 class="math display">\[\vec a \cdot \vec b = 0\]</span></p>
 <p>将正交的概念推广到连续函数上，在区间x∈[a,b]，如果函数f(x)和g(x)正交，则<span
