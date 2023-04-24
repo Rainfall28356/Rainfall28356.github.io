@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-24T17:33:51.466Z</updated>
+  <updated>2023-04-24T17:39:18.249Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,10 +21,11 @@
     <link href="http://example.com/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/"/>
     <id>http://example.com/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/</id>
     <published>2023-04-24T09:12:52.000Z</published>
-    <updated>2023-04-24T17:33:51.466Z</updated>
+    <updated>2023-04-24T17:39:18.249Z</updated>
     
     
-    <summary type="html">&lt;p&gt;从 &lt;a href=&quot;https://space.bilibili.com/230105574&quot;&gt;DOC_CAN&lt;/a&gt; 的教学视频中学习到了傅里叶变换的完整推导方法，真可谓酣畅淋漓，令我受益匪浅。故在此梳理、分享：&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;从 &lt;a
+href=&quot;https://space.bilibili.com/230105574&quot;&gt;DOC_CAN&lt;/a&gt;的教学视频中学习到了傅里叶变换的完整推导方法，真可谓酣畅淋漓，令我受益匪浅。故在此梳理、分享：</summary>
     
     
     
