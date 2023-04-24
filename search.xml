@@ -187,4 +187,43 @@
         <tag>社会</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Fourier Series and Fourier Transform</title>
+    <url>/2023/04/24/Fourier%20Series%20and%20Fourier%20Transform/</url>
+    <content><![CDATA[<p>从 <a href="https://space.bilibili.com/230105574">DOC_CAN</a> 的教学视频中学习到了傅里叶变换的完整推导方法，受益匪浅，故作此梳理和分享：</p>
+<span id="more"></span>
+<h1 id="1-三角函数的正交性"><a class="markdownIt-Anchor" href="#1-三角函数的正交性">#</a> 1 三角函数的正交性</h1>
+<p>在解析几何中，定义两个向量正交可用点积（内积）来表示：$${<strong>a</strong>·<strong>b</strong> = 0}$$</p>
+<p>定义三角函数系：$${1,sinx,cosx,sin2x,cos2x,…,sinnx,cosnx,…}$$</p>
+]]></content>
+      <categories>
+        <category>韬光逐薮，含章未曜</category>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>理论</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ノルウェイの森 (むらかみ はるき)</title>
+    <url>/2023/03/31/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/</url>
+    <content><![CDATA[<p>挪威的森林（村上春树_林少华译本）</p>
+<span id="more"></span>
+<p><strong>死并未生的对立面，而作为生的一部分永存。</strong></p>
+<h1 id="1"><a class="markdownIt-Anchor" href="#1">#</a> 1</h1>
+<p>一切都清晰得历历如昨的时候，反而不知从何处着手，就像一张十分详尽的地图，有时反倒因其过于详尽而派不上用场。</p>
+<p>洗脸时间惊人之长，我真怀疑他是不是把满口牙一颗颗拔下来刷洗一遍。</p>
+<p>深刻未必是接近真实的同义词，但无论我怎样认为，死都是深刻的现实。</p>
+<h1 id="2"><a class="markdownIt-Anchor" href="#2">#</a> 2</h1>
+]]></content>
+      <categories>
+        <category>珠玑</category>
+        <category>鳴る神の少し響みてさし曇り</category>
+      </categories>
+      <tags>
+        <tag>日本</tag>
+        <tag>情感</tag>
+      </tags>
+  </entry>
 </search>
