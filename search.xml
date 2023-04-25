@@ -122,7 +122,9 @@ href="https://zhuanlan.zhihu.com/p/19763358">一篇写得很好的科普向文�
 <p>在解析几何中，定义两个向量正交可用点积（内积）来表示：<span
 class="math display">\[\vec a \cdot \vec b = 0\]</span></p>
 <p>将正交的概念推广到连续函数上，在区间<span
-class="math inline">\(x∈[a,b]\)</span>，如果函数f(x)和g(x)正交，则<span
+class="math inline">\(x∈[a,b]\)</span>，如果函数 <span
+class="math inline">\(f(x)\)</span> 和 <span
+class="math inline">\(g(x)\)</span> 正交，则<span
 class="math display">\[\int_a^bf(x)g(x)dx = 0\]</span></p>
 <p>此时定义三角函数系（省略0）：<span
 class="math display">\[{1(cos0x),sinx,cosx,sin2x,cos2x,...,sinnx,cosnx,...}\]</span></p>
